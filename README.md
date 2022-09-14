@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm experienced Backend Engineer with more than 5 years of experience. I have been involved in successful startups based on **Ruby on Rails** and **Javascript**. Also, I've been involved with projects: **AWS**, **Python**, etc. I'm always looking to have an impact on other people, that's why I've worked creating maintainable products, for millions of users and with more than five hundred thousand transactions per day. I like to have a proactive and growth mindset, so I like to learn and share my knowledge, that's why in my current job I'm always giving some courses and mentoring other developers.
+
+#### Contact me:
+* Email: huarci@gmail.com
+* Phone: +525525312936
+* Linkedin: https://www.linkedin.com/in/humberto-arroyo-4775b6121
 
 <!--
 **humbertoa6/humbertoa6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
