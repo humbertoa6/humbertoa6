@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm experienced Backend Engineer with more than 5 years of experience. I have been involved in successful startups based on **Ruby on Rails** and **Javascript**. Also, I've been involved with projects: **AWS**, **Python**, etc. I'm always looking to have an impact on other people, that's why I've worked creating maintainable products, for millions of users and with more than five hundred thousand transactions per day. I like to have a proactive and growth mindset, so I like to learn and share my knowledge, that's why in my current job I'm always giving some courses and mentoring other developers.
+With over 6 years of progressive experience, I'm a results-oriented Senior Software Engineer who thrives on leading transformative projects. I've spearheaded initiatives across diverse domains, modernizing legacy systems, introducing innovative solutions, and optimizing operational efficiencies. Proficient in technologies such as React, Ruby on Rails, Javascript, and more, I bring a versatile skillset to every challenge. My collaborative approach, agile mindset, and commitment to continuous learning have consistently driven impactful outcomes, making me a valuable asset in achieving both technical excellence and business objectives.
 
 #### Contact me:
 * Email: huarci@gmail.com
