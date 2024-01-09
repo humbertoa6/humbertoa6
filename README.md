@@ -2,9 +2,8 @@
 With over 6 years of progressive experience, I'm a results-oriented Senior Software Engineer who thrives on leading transformative projects. I've spearheaded initiatives across diverse domains, modernizing legacy systems, introducing innovative solutions, and optimizing operational efficiencies. Proficient in technologies such as React, Ruby on Rails, Javascript, and more, I bring a versatile skillset to every challenge. My collaborative approach, agile mindset, and commitment to continuous learning have consistently driven impactful outcomes, making me a valuable asset in achieving both technical excellence and business objectives.
 
 #### Contact me:
-* Email: huarci@gmail.com
-* Phone: +525525312936
-* Linkedin: https://www.linkedin.com/in/humberto-arroyo-4775b6121
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/humberto-arroyo-4775b6121) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:huarci@gmail.com?subject=Hello%20Humberto,%20From%20Github)
 
 <!--
 **humbertoa6/humbertoa6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
