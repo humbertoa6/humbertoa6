@@ -3,7 +3,7 @@ With over 6 years of progressive experience, I'm a results-oriented Senior Softw
 
 ## 📫 Contact Me on Social Media
 
-[LinkedIn][0] | [Website][1] | [DevTo][2] | [Email](mailto:huarci@gmail.com)
+[LinkedIn][0] | [Github][1] | [Website][2] | [DevTo][3] | [Email](mailto:huarci@gmail.com)
 
 ## 🏆 My Stats:
 
@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [0]: https://www.linkedin.com/in/humberto-arroyo-4775b6121/
-[1]: https://www.humbertoa.dev/
-[2]: https://dev.to/humbertoa6
+[1]: https://github.com/humbertoa6
+[2]: https://www.humbertoa.dev/
+[3]: https://dev.to/humbertoa6
